@@ -1,2 +1,2 @@
 # Endurunz_Frontend
-web app front-end using sveltekit
+Web-App front-end using SvelteKit
